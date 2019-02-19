@@ -1,0 +1,60 @@
+{
+	"comments": [
+		 { "comment": "Theatrical Movies for 2017" },
+		 { "comment": "All dates are for USA" },
+		 { "comment": "Runtime is in minutes" },
+		 { "comment": "GrossUSA is in US Dollars" }
+	],
+	"works": [
+		{ "Title": "Wormwood", "Platform": "theater", 
+		  "ReleaseDate": "2017-12-15",
+		  "Runtime": "241", "AspectRatio": "2.23:1", 
+		  "Genre": "Documentary" 
+		},
+		{ "Title": "Lady MacBeth", "Platform": "theater", 
+		  "ReleaseDate": "2017-07-16",
+		  "Runtime": "89", "AspectRatio": "2.39:1", 
+		  "Genre": "Drama", "GrossUSA": "1129408"
+		},
+		{ "Title": "Dunkirk", "Platform": "theater", 
+		  "ReleaseDate": "2017-07-23",
+		  "Runtime": "106", "AspectRatio": "2.20:1", 
+		  "Genre": "Action", "GrossUSA": "188373161", 
+		  "Rating": "PG-13"
+		},
+		{ "Title": "Majorie Prime", "Platform": "theater", 
+		  "ReleaseDate": "2017-10-19",
+		  "Runtime": "99", "AspectRatio": "1.85:1", 
+		  "Genre": "Drama", "GrossUSA": "180608"
+		},
+		{ "Title": "Columbus", "Platform": "theater", 
+		  "ReleaseDate": "2017-08-04",
+		  "AspectRatio": "1.85:1", 
+		  "Genre": "Drama", "GrossUSA": "1017107"
+		},
+		{ "Title": "Alien: Covenant", "Platform": "theater", 
+		  "ReleaseDate": "2017-05-21",
+		  "AspectRatio": "2:39:1", 
+		  "Genre": "Horror", "GrossUSA": "74262031",
+		  "Rating": "R"
+		},
+		{ "Title": "Thor: Ragnarok", "Platform": "theater", 
+		  "ReleaseDate": "2017-11-03", "Runtime": "130",
+		  "AspectRatio": "2:39:1", 
+		  "Genre": "SciFi", "GrossUSA": "315058289",
+		  "Rating": "PG-13"
+		},
+		{ "Title": "Justice League", "Platform": "theater", 
+		  "ReleaseDate": "2017-11-19", "Runtime": "120",
+		  "AspectRatio": "1:85:1", 
+		  "Genre": "SciFi", "GrossUSA": "229024295",
+		  "Rating": "PG-13"
+		},
+		{ "Title": "Guardians of the Galaxy Vol 2", "Platform": "theater", 
+		  "ReleaseDate": "2017-05-05", "Runtime": "136",
+		  "AspectRatio": "2:39:1", 
+		  "Genre": "SciFi", "GrossUSA": "389813101",
+		  "Rating": "PG-13"
+		}
+	]
+}

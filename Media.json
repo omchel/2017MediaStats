@@ -1,0 +1,21 @@
+{
+  "categories": {
+        "2017 Movies": "2017_movies.json", 
+        "2017 TV": "2017_television.json"
+        },
+  "find": {
+  		"F0": "Nothing",
+  		"F1": "Title",
+		"F2": "Platform",
+		"F3": "ReleaseDate",
+		"F4": "Runtime",
+		"F5": "Genre",
+		"F6": "Season"
+  		},
+  "info": {
+        "I0": "Runtime",
+        "I1": "Episodes",
+        "I2": "Season",
+        "I3": "GrossUSA"
+        }
+}

@@ -1,0 +1,24 @@
+{
+	"works": [
+		{ "Title": "Stranger Things", "Platform": "netflix", 
+		  "Season": "2", "Episodes": "10", "Genre": "SciFi" 
+		},
+		{ "Title": "The Big Bang Theory", "Platform": "ABC", 
+		  "Season": "12", "Episodes": "20", "Genre": "Comedy" 
+		},
+		{ "Title": "Halt And Catch Fire", "Platform": "AMC", 
+		  "Season": "4", "Episodes": "15", "Genre": "Drama" 
+		},
+		{ "Title": "Game Of Thromes", "Platform": "HBO", 
+		  "Season": "7", "Episodes": "7", "Genre": "Fantasy" 
+		},
+		{ "Title": "Mindhunter", "Platform": "netflix", 
+		  "Episodes": "8", "Genre": "Crime" 
+		}
+	],
+	"comments": [
+		 { "comment": "Television for 2017" },
+		 { "comment": "All dates are for USA" },
+		 { "comment": "Most data is made up!" }
+	]
+}
